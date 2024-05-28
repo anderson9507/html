@@ -1,0 +1,17 @@
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    margin-left: 20px;
+    border: 1px solid gray;
+}
+
+tr,td {
+    border: solid 1px black;
+}
+
+
+
