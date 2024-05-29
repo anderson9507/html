@@ -1,7 +1,6 @@
 
 div {
     display: flex;
-    justify-content: center;
 }
 
 table {
@@ -9,7 +8,12 @@ table {
     border: 1px solid gray;
 }
 
+th {
+    background-color: rgba(100, 170, 200, 40%);
+}
+
 tr,td {
+    text-align: center;
     border: solid 1px black;
 }
 
